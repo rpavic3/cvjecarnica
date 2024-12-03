@@ -1,127 +1,54 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 595.3 841.9">
+  <!-- Generator: Adobe Illustrator 29.1.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 142)  -->
+  <defs>
+    <style>
+      .st0 {
+        isolation: isolate;
+      }
 
-<svg
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
-   version="1.1"
-   id="svg5"
-   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
-   sodipodi:docname="logo.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview7"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="mm"
-     showgrid="false"
-     inkscape:zoom="3.0009657"
-     inkscape:cx="402.20387"
-     inkscape:cy="536.49397"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="g447"
-     showguides="false">
-    <inkscape:grid
-       type="xygrid"
-       id="grid1746" />
-  </sodipodi:namedview>
-  <defs
-     id="defs2">
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient2449">
-      <stop
-         style="stop-color:#c20000;stop-opacity:0.77987421;"
-         offset="0.25819939"
-         id="stop2445" />
-      <stop
-         style="stop-color:#550000;stop-opacity:0.63137255;"
-         offset="0.76623797"
-         id="stop5179" />
-      <stop
-         style="stop-color:#550000;stop-opacity:0.55686275;"
-         offset="0.84935695"
-         id="stop5181" />
-      <stop
-         style="stop-color:#550000;stop-opacity:0.51764706;"
-         offset="0.91181672"
-         id="stop5183" />
-      <stop
-         style="stop-color:#550000;stop-opacity:0.48427674;"
-         offset="1"
-         id="stop2447" />
+      .st1 {
+        fill: #b10000;
+      }
+
+      .st1, .st2 {
+        font-family: BookmanOldStyle, 'Bookman Old Style';
+        font-size: 40.8px;
+      }
+
+      .st3 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="-162.2" y1="741.2" x2="-157.6" y2="732.9" gradientTransform="translate(527.4 1443.4) scale(1.4 -1.4)" gradientUnits="userSpaceOnUse">
+      <stop offset=".3" stop-color="#c20000" stop-opacity=".8"/>
+      <stop offset=".8" stop-color="#500" stop-opacity=".6"/>
+      <stop offset=".8" stop-color="#500" stop-opacity=".6"/>
+      <stop offset=".9" stop-color="#500" stop-opacity=".5"/>
+      <stop offset="1" stop-color="#500" stop-opacity=".5"/>
     </linearGradient>
-    <inkscape:perspective
-       sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="8.8709676 : 246.79032 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_z="192.6129 : 250.33871 : 1"
-       inkscape:persp3d-origin="87.612904 : 200.83871 : 1"
-       id="perspective5382" />
-    <rect
-       x="136.79451"
-       y="425.13589"
-       width="519.01448"
-       height="79.126239"
-       id="rect4435" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient2449"
-       id="linearGradient5177"
-       x1="55.347725"
-       y1="128.47682"
-       x2="59.902802"
-       y2="136.7424"
-       gradientUnits="userSpaceOnUse"
-       spreadMethod="reflect"
-       gradientTransform="translate(65.069024,-4.7842334)" />
   </defs>
-  <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1">
-    <g
-       id="g8378">
-      <g
-         id="g9214"
-         transform="translate(4.2319711,0.70532851)">
-        <g
-           id="g447"
-           transform="matrix(0.50166627,0,0,0.50166627,50.748867,69.92083)"
-           inkscape:export-filename="g447.png"
-           inkscape:export-xdpi="96"
-           inkscape:export-ydpi="96">
-          <text
-             xml:space="preserve"
-             transform="matrix(0.415448,0,0,0.45179572,-6.3568626,-57.884497)"
-             id="text4433"
-             style="white-space:pre;shape-inside:url(#rect4435);display:inline;fill:#b10000;fill-opacity:0.760784;stroke-width:1.19433;stroke-dasharray:none"><tspan
-               x="136.79492"
-               y="481.40292"
-               id="tspan4403"><tspan
-                 style="font-size:63.5136px;font-family:'Bookman Old Style';-inkscape-font-specification:'Bookman Old Style, Normal'"
-                 id="tspan4399">D</tspan><tspan
-                 style="font-size:63.5136px;font-family:'Bookman Old Style';-inkscape-font-specification:'Bookman Old Style, Normal';fill:#000000"
-                 id="tspan4401">ALIA</tspan></tspan></text>
-          <path
-             id="path1734"
-             style="fill:url(#linearGradient5177);fill-opacity:1;fill-rule:nonzero;stroke-width:0.321585"
-             d="m 107.42503,136.46956 c 0,0 1.61136,-5.08679 6.00596,-7.09585 4.95001,-2.26296 11.54084,-2.70495 11.54084,-2.70495 0,0 -4.21394,5.73139 -8.39862,8.14742 -4.18471,2.41604 -9.14818,1.65338 -9.14818,1.65338 z"
-             sodipodi:nodetypes="cscsc" />
+  <g id="svg5" inkscape:version="1.2 (dc2aedaf03, 2022-05-15)">
+    <sodipodi:namedview id="namedview7" bordercolor="#000000" borderopacity="0.25" inkscape:current-layer="g447" inkscape:cx="402.20387" inkscape:cy="536.49397" inkscape:deskcolor="#d1d1d1" inkscape:document-units="mm" inkscape:pagecheckerboard="0" inkscape:pageopacity="0.0" inkscape:showpageshadow="2" inkscape:window-height="1017" inkscape:window-maximized="1" inkscape:window-width="1920" inkscape:window-x="-8" inkscape:window-y="-8" inkscape:zoom="3.0009657" pagecolor="#ffffff" showgrid="false" showguides="false">
+      <inkscape:grid id="grid1746" type="xygrid"/>
+    </sodipodi:namedview>
+    <g id="_x3C_defs">
+      <inkscape:perspective id="perspective5382" inkscape:persp3d-origin="87.612904 : 200.83871 : 1" inkscape:vp_x="8.8709676 : 246.79032 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_z="192.6129 : 250.33871 : 1" sodipodi:type="inkscape:persp3d"/>
+    </g>
+    <g id="layer1" inkscape:groupmode="layer" inkscape:label="Layer 1">
+      <g id="g8378">
+        <g id="g9214">
+          <g id="g447" inkscape:export-filename="g447.png" inkscape:export-xdpi="96" inkscape:export-ydpi="96">
+            <g id="text4433" class="st0">
+              <g class="st0">
+                <text class="st1" transform="translate(206.6 435.3) scale(.9 1)"><tspan x="0" y="0">B</tspan></text>
+              </g>
+              <g class="st0">
+                <text class="st2" transform="translate(236.6 435.3) scale(.9 1)"><tspan x="0" y="0">ELLIS</tspan></text>
+              </g>
+            </g>
+            <path id="path1734" class="st3" d="M287.6,402.4s2.3-7.2,8.5-10.1c7-3.2,16.4-3.8,16.4-3.8,0,0-6,8.2-11.9,11.6-6,3.4-13,2.4-13,2.4Z" sodipodi:nodetypes="cscsc"/>
+          </g>
         </g>
       </g>
     </g>
