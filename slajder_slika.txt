@@ -1,0 +1,120 @@
+<div class="products">
+        <div class="products-container" id="productsContainer">
+            <div class="product-card">
+                <img src="buket.jpg" alt="" draggable="false">
+                <h3>Product 1</h3>
+            </div>
+            <div class="product-card">
+                <img src="buket.jpg" alt="" draggable="false">
+                <h3>Product 2</h3>
+            </div>
+            <div class="product-card">
+                <img src="buket.jpg" alt="" draggable="false">
+                <h3>Product 3</h3>
+            </div>
+            <div class="product-card">
+                <img src="buket.jpg" alt="" draggable="false">
+                <h3>Product 4</h3>
+            </div>
+            <div class="product-card">
+                <img src="buket.jpg" alt="" draggable="false">
+                <h3>Product 5</h3>
+            </div>
+            <div class="product-card">
+                <img src="buket.jpg" alt="" draggable="false">
+                <h3>Product 6</h3>
+            </div>
+            <div class="product-card">
+                <img src="buket.jpg" alt="" draggable="false">
+                <h3>Product 7</h3>
+            </div>
+            <div class="product-card">
+                <img src="buket.jpg" alt="" draggable="false">
+                <h3>Product 4</h3>
+            </div>
+            <div class="product-card">
+                <img src="buket.jpg" alt="" draggable="false">
+                <h3>Product 5</h3>
+            </div>
+            <div class="product-card">
+                <img src="buket.jpg" alt="" draggable="false">
+                <h3>Product 6</h3>
+            </div>
+            <div class="product-card">
+                <img src="buket.jpg" alt="" draggable="false">
+                <h3>Product 7</h3>
+            </div>        
+        </div>
+    </div>
+
+
+
+
+
+
+.products {
+    font-family: "Quicksand", sans-serif;
+}
+
+.products-container {
+    overflow-x:hidden; 
+    white-space: nowrap; 
+    display: flex; 
+    gap: 10px; 
+    padding: 7px; 
+}
+
+.product-card {
+    width: 350px;
+    flex-shrink: 0;
+    user-select: none;
+}
+
+
+.product-card img {
+    max-width: 100%; 
+    pointer-events:none;
+    transition: transform 0.3s ease; 
+}
+
+.product-card:hover img {
+    transform: translate(5px, 5px); 
+}
+
+
+
+
+
+
+
+// Existing code for horizontal scroll
+const container = document.getElementById('productsContainer');
+let isDown = false;
+let startX;
+let scrollLeft;
+
+container.addEventListener('mousedown', (e) => {
+    isDown = true;
+    startX = e.pageX - container.offsetLeft;
+    scrollLeft = container.scrollLeft;
+});
+
+container.addEventListener('mouseleave', () => {
+    isDown = false;
+});
+
+container.addEventListener('mouseup', () => {
+    isDown = false;
+});
+
+container.addEventListener('mousemove', (e) => {
+    if (!isDown) return;
+    e.preventDefault();
+    const x = e.pageX - container.offsetLeft;
+    const walk = (x - startX) * 0.99; // Adjust sensitivity as needed
+    container.scrollLeft = scrollLeft - walk;
+});
+
+
+
+
